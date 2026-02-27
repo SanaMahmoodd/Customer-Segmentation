@@ -21,6 +21,7 @@ python main.py
 2. The Elbow method shows a clear bend around k = 5, where the decrease in inertia starts to slow down significantly.
 3. This indicates that adding more clusters after k = 5 does not significantly improve the model.
 4. Therefore, the optimal number of clusters is chosen as k = 5.
+
 ![alt text](image.png)
 
 ## Notes
